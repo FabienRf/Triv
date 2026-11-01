@@ -1,0 +1,19 @@
+# Dossier des APK buildées (ne pas versionner)
+/apk/
+
+# Flutter / Dart
+.dart_tool/
+.build/
+*.iml
+.android/
+.idea/
+*.key
+*.keystore
+properties/
+
+# Android
+*.apk
+*.aab
+
+# macOS
+.DS_Store
