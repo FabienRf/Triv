@@ -16,7 +16,7 @@ properties/
 *.aab
 
 # Sauf l'APK de release à la racine (version courante)
-!Triv-3.0.apk
+!Triv.apk
 
 # macOS
 .DS_Store
