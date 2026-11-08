@@ -8,8 +8,7 @@ It is **local-first**, with no ads and no subscription.
 ```
 Triv/
 ├── app/                 # Flutter application (submodule)
-├── apk/                 # Older release APKs (not tracked on main)
-├── Triv-3.0.apk         # Latest release APK (current version)
+├── Triv.apk         # Latest release APK (current version)
 ├── README.md
 └── .gitignore
 ```
@@ -34,8 +33,7 @@ flutter run
 
 ## Release APK
 
-The latest release APK (`Triv-3.0.apk`) is available at the repository root.  
-Older versions are kept in the `apk/` folder.
+The latest release APK (`Triv.apk`) is available at the repository root.  
 
 ## Features
 
